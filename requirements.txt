@@ -14,4 +14,3 @@ langchain-groq
 
 langchain-chat-prompt
 langchain-prompty
-langchain-classic==0.1.0
